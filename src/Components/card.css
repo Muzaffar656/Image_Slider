@@ -1,0 +1,15 @@
+.my-card{
+    display: flex;
+   max-width: 300px;
+   min-width: 300px;
+    height: 250px;
+    padding: 0px 10px;
+}
+.my-card .slide{
+    height: 100%;
+    width: 100%;
+}
+
+.slide-hidden{
+    display: none;
+}
